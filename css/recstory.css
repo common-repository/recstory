@@ -1,0 +1,48 @@
+#animbox {
+    position:fixed;
+    z-index:1000;
+    bottom:0px;
+    right:-400px;
+    font-size: 14pt;
+    min-width: 300px;
+    padding: 10px 20px 10px 10px;
+    border-top: 2px solid #000;
+    border-left: 1px solid #f0f0f0;
+    background-color: #fff;
+    -moz-box-shadow: 0 4px 10px #666;
+    -webkit-box-shadow: 0 4px 10px #666;
+    box-shadow: 0 4px 10px #666;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Color=#cccccc, direction=270, strength=7)";
+    filter: progid:DXImageTransform.Microsoft.Shadow(Color=#cccccc, direction=270, strength=7);
+    _position: absolute;
+    _top: 0;
+    text-align: left !important;
+}
+#animbox h6 {
+    margin:0 0 5px 0;
+    padding:0;
+    text-transform: uppercase;
+    font: bold 10px arial,helvetica,sans-serif;
+}
+#animbox button {
+    border: none;
+    padding: 0px;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    width: 70px;
+    height: 13px;
+    background: #fff url('../images/closex.gif') no-repeat 0 0;
+    text-indent: 16px;
+    overflow: hidden;
+    cursor: pointer;
+	font: bold 12px arial,helvetica,sans-serif;
+}
+#animbox ul,#animbox li {
+	list-style-type: none;
+	margin: 0;
+}
+#animbox img {
+	vertical-align: middle;
+}
+

@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Recommended Stories for Wordpress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-09 12:15+0200\n"
+"PO-Revision-Date: 2011-10-09 12:18+0200\n"
+"Last-Translator: Richard Vencu <richard.vencu@richardconsulting.ro>\n"
+"Language-Team: Richard Vencu <richard.vencu@richardconsulting.ro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: ROMANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: recstory.php:171
+msgid "Recommended Articles"
+msgstr "Articole recomandate"
+
+#: recstory.php:188
+msgid "Close"
+msgstr "Închidere"
+
+#: recstory.php:219
+msgid "Rec Stories Settings Page"
+msgstr "Pagină setări Articole Recomandate"
+
+#: recstory.php:221
+msgid "Rec Stories"
+msgstr "Articole Recomandate"
+
+#: recstory.php:240
+msgid "Recommended stories for WordPress"
+msgstr "Articole recomandate pentru WordPress"
+
+#: recstory.php:248
+msgid "Save Changes"
+msgstr "Salvare modificări"
+
+#: recstory.php:268
+msgid "Recommended Stories for WordPress Settings"
+msgstr "Setările modulului Articole recomandate pentru WordPress"
+
+#: recstory.php:275
+msgid "Number of links to display in the animated box"
+msgstr "Numărul de legături de afișat în cutia animată"
+
+#: recstory.php:283
+msgid "Activate theme's thumbnail support?"
+msgstr "Activarea suportului pentru medalioane?"
+
+#: recstory.php:291
+msgid "Turn off sticky attribute in main loops?"
+msgstr "Eliminarea funcției lipicioase din buclele principale de articole?"
+
+#: recstory.php:299
+msgid "Percent of vertical scrolling where to display the animated box"
+msgstr "Poziția din timpul derulării verticale a paginii la care să se afișeze cutia animată"
+
+#: recstory.php:307
+msgid "Where to display the animated box"
+msgstr "Unde să se afișeze cutia animată"
+
+#: recstory.php:314
+msgid "Display on single pages"
+msgstr "Afiașare în pagini singulare"
+
+#: recstory.php:322
+msgid "Display on frontpage"
+msgstr "Afișare pe pagina principală"
+
+#: recstory.php:330
+msgid "Display on search page"
+msgstr "Afișare în pagina de căutare"
+
+#: recstory.php:338
+msgid "Display on archive pages"
+msgstr "Afișare în paginile pentru arhive"
+
+#: recstory.php:346
+msgid "Display on category pages"
+msgstr "Afișare în paginile pentru categorii"
+
+#: recstory.php:354
+msgid "Display on author pages"
+msgstr "Afișare în paginile autorilor"
+
+#: recstory.php:362
+msgid "Display on tag pages"
+msgstr "Afișare în paginile etichetelor"
+
+#: recstory.php:370
+msgid "When to display the animated box"
+msgstr "Când să se afișeze cutia animată"
+
+#: recstory.php:377
+msgid "Display only if users are logged in"
+msgstr "Afișare numai pentru utilizatorii autentificați"
+
+#: recstory.php:388
+msgid "Enter your settings below."
+msgstr "Introduceți setările dumneavoastră mai jos."
+
+#: recstory.php:603
+msgid "Incorrect value entered for number of sticky posts!"
+msgstr "Valoare incorectă pentru numărul de legături de afișat!"
+
+#: recstory_post_metabox.php:53
+msgid "Remove recommended stories box on this page:"
+msgstr "Elimină cutia cu articole recomandate pentru această pagină:"
+
+#~ msgid "Rec Stories Settings"
+#~ msgstr "Setări Articole Recomandate"

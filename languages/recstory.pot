@@ -1,0 +1,129 @@
+# Copyright (C) 2010 Recommended Stories for WordPress
+# This file is distributed under the same license as the Recommended Stories for WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Recommended Stories for WordPress 0.1.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/recstory\n"
+"POT-Creation-Date: 2011-10-09 09:19:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: recstory_post_metabox.php:53
+msgid "Remove recommended stories box on this page:"
+msgstr ""
+
+#: recstory.php:171
+msgid "Recommended Articles"
+msgstr ""
+
+#: recstory.php:188
+msgid "Close"
+msgstr ""
+
+#: recstory.php:219
+msgid "Rec Stories Settings Page"
+msgstr ""
+
+#: recstory.php:221
+msgid "Rec Stories"
+msgstr ""
+
+#: recstory.php:240
+msgid "Recommended stories for WordPress"
+msgstr ""
+
+#: recstory.php:248
+msgid "Save Changes"
+msgstr ""
+
+#: recstory.php:268
+msgid "Recommended Stories for WordPress Settings"
+msgstr ""
+
+#: recstory.php:275
+msgid "Number of links to display in the animated box"
+msgstr ""
+
+#: recstory.php:283
+msgid "Activate theme's thumbnail support?"
+msgstr ""
+
+#: recstory.php:291
+msgid "Turn off sticky attribute in main loops?"
+msgstr ""
+
+#: recstory.php:299
+msgid "Percent of vertical scrolling where to display the animated box"
+msgstr ""
+
+#: recstory.php:307
+msgid "Where to display the animated box"
+msgstr ""
+
+#: recstory.php:314
+msgid "Display on single pages"
+msgstr ""
+
+#: recstory.php:322
+msgid "Display on frontpage"
+msgstr ""
+
+#: recstory.php:330
+msgid "Display on search page"
+msgstr ""
+
+#: recstory.php:338
+msgid "Display on archive pages"
+msgstr ""
+
+#: recstory.php:346
+msgid "Display on category pages"
+msgstr ""
+
+#: recstory.php:354
+msgid "Display on author pages"
+msgstr ""
+
+#: recstory.php:362
+msgid "Display on tag pages"
+msgstr ""
+
+#: recstory.php:370
+msgid "When to display the animated box"
+msgstr ""
+
+#: recstory.php:377
+msgid "Display only if users are logged in"
+msgstr ""
+
+#: recstory.php:388
+msgid "Enter your settings below."
+msgstr ""
+
+#: recstory.php:603
+msgid "Incorrect value entered for number of sticky posts!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Recommended Stories for WordPress"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://richardconsulting.ro/blog/?p=938"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Get latest sticky posts and push them as recommended stories"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Richard Vencu"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://richardconsulting.ro"
+msgstr ""
